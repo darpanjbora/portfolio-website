@@ -218,7 +218,7 @@ iframe {
     -o-background-size: cover;
     background-size: cover;
     height: auto;
-    background-image: url('https://cdn.pixabay.com/photo/2018/02/16/10/52/wood-3157395_960_720.jpg');
+    background-image: url('../images/header.jpg');
     border-top: 5px solid #fbfbfc;
 }
 
